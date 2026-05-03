@@ -2,7 +2,7 @@
 
 A clean and functional calculator built with **Flutter**.
 
-![Calculator Screenshot](screenshot.jpeg)
+![Calculator Screenshot](assets/screenshot.jpeg)
 
 
 ## Features
