@@ -1,7 +1,7 @@
 # Calculator App
 A clean and functional calculator built with **Flutter**.
 
-<img src="assets/screenshot.jpeg" width="300"/>
+<img src="assets/screenshot.jpeg" width="250"/>
 
 ## Features
 - Basic arithmetic: `+`, `-`, `*`, `/`, `%`
